@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m Currently Learning:
 * ``React``
-* ``Express``
-* ``Node``
+* ``AWS``
+* ``TypeScript``
 
 ### 📭 Let's Connect!: 
 * Linkedin: https://www.linkedin.com/in/aryangupta16/
