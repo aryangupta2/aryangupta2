@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 💁🏽‍♂️ About Me: 
 * I'm a Computer Science student at the University of Ottawa
 * I enjoy building empowering user experiences
-* Particularly interested in full-stack development
+* Particularly interested in full-stack development, product design, and project management
 
 ### 🌱 I’m Currently Learning:
 * ``React``
