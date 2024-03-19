@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * Particularly interested in full-stack development, product design, and project management
 
 ### 🌱 I’m Currently Learning:
-* ``React``
+* ``Tailwind CSS``
 * ``AWS``
 * ``TypeScript``
 
