@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 * Particularly interested in full-stack development, product design, and project management
 
 ### 🌱 I’m Currently Working On:
-* ``AWS Certified Solutions Architect`` ☁️
-* ``Backend Development`` 👨🏾‍💻
+* ``AWS Certified Solutions Architect ☁️`` 
+* ``Backend Development 👨🏾‍💻``
 * ``TypeScript`` 
 
 ### 📭 Let's Connect!: 
