@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 * I enjoy building empowering user experiences
 * Particularly interested in full-stack development, product design, and project management
 
-### 🌱 I’m Currently Learning:
-* ``Tailwind CSS``
-* ``Node/Express``
-* ``TypeScript``
+### 🌱 I’m Currently Working On:
+* ``AWS Certified Solutions Architect`` ☁️
+* ``Backend Development`` 👨🏾‍💻
+* ``TypeScript`` 
 
 ### 📭 Let's Connect!: 
 * Linkedin: https://www.linkedin.com/in/aryangupta16/
